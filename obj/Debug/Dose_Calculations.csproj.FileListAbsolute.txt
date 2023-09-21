@@ -1,0 +1,15 @@
+C:\Users\Badshah\source\repos\Dose_Calculations\bin\Debug\Dose_Calculations.exe.config
+C:\Users\Badshah\source\repos\Dose_Calculations\bin\Debug\Dose_Calculations.exe
+C:\Users\Badshah\source\repos\Dose_Calculations\bin\Debug\Dose_Calculations.pdb
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.csproj.AssemblyReference.cache
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.Form1.resources
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.Properties.Resources.resources
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.csproj.GenerateResource.cache
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.exe
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.pdb
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.Form2.resources
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.Form3.resources
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.Form4.resources
+C:\Users\Badshah\source\repos\Dose_Calculations\obj\Debug\Dose_Calculations.Form5.resources

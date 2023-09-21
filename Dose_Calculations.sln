@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dose_Calculations", "Dose_Calculations.csproj", "{8709815D-AA4E-4ADE-9437-A01826799A14}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dose Calculator App", "..\Dose Calculator App\Dose Calculator App.vdproj", "{9ECBE97C-58AE-481B-9564-28759B863AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8709815D-AA4E-4ADE-9437-A01826799A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8709815D-AA4E-4ADE-9437-A01826799A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8709815D-AA4E-4ADE-9437-A01826799A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8709815D-AA4E-4ADE-9437-A01826799A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECBE97C-58AE-481B-9564-28759B863AB9}.Debug|Any CPU.ActiveCfg = Release
+		{9ECBE97C-58AE-481B-9564-28759B863AB9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F12F59EC-86DE-4A58-92A0-37E533E072A6}
+	EndGlobalSection
+EndGlobal
